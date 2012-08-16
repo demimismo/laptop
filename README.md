@@ -15,4 +15,3 @@ Based on Thoughtbot's famous laptop script and on [javierjulio/laptop](https://g
 
  * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
  * Install [IE7-9 Virtual Machines](https://github.com/xdissent/ievms)
-   * http://osxdaily.com/2011/09/04/internet-explorer-for-mac-ie7-ie8-ie-9-free/
